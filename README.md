@@ -148,7 +148,7 @@
         "realitySettings": {
           "show": false,
           "xver": 0,
-          "target": "127.0.0.1:1443", // to xHTTP
+          "target": "127.0.0.1:1443", // to selfsteal
           "shortIds": [
             "shortId 1" // openssl rand -hex 16
           ],
